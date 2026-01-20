@@ -1,4 +1,4 @@
-# js-oneline-generator
+# js-oneline
 
 JavaScript allows you to write everything in a single line of code (with only one semicolon!). (This is more than one line for readability, but it works if you remove the line breaks!)
 
